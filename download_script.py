@@ -13,7 +13,7 @@ from random_user_agent.user_agent import UserAgent
 from random_user_agent.params import SoftwareName, OperatingSystem
 
 # This is where you add the collection name to the URL
-CollectionName = "cyberkongz".lower()
+CollectionName = "Cyberkongz".lower()
 
 # Random User Agent
 software_names = [SoftwareName.CHROME.value]
@@ -75,7 +75,9 @@ stats = {
 # Iterate through every unit
 for i in range(iter):
     offset = i * 50
-    data = json.loads(requests.get(f"https://api.opensea.io/api/v1/assets?order_direction=asc&offset={offset}&limit=50&collection={CollectionName}&format=json", headers=headers).content.decode())
+    data = json.loads(requests.get(
+                f"https://api.opensea.io/api/v1/assets?order_direction=asc&offset={offset}"
+                f"&limit=50&collection={CollectionName}&format=json", headers=headers).content.decode())
 
     if "assets" in data:
         for asset in data["assets"]:
@@ -100,11 +102,8 @@ for i in range(iter):
               print(f"  Image -> [\u2713] (Already Downloaded)")
               stats["AlreadyDownloadedImages"] += 1
           else:
-            # Make the request to the URL to get the image
-            if not asset["image_original_url"] == None:
-              image = requests.get(asset["image_original_url"])
-            else:
-              image = requests.get(asset["image_url"])
+            if not asset["image_url"] is None:
+                image = requests.get(asset["image_url"])
 
           # If the URL returns status code "200 Successful", save the image into the "images" folder.
             if image.status_code == 200:
