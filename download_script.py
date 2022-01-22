@@ -6,6 +6,7 @@ Created on Wed Jan 19 00:48:50 2022
 """
 import requests
 import os
+os.chdir(r"D:/NFTs")
 import json
 import math
 from random_user_agent.user_agent import UserAgent
@@ -36,6 +37,7 @@ if collection.status_code == 429:
 if collection.status_code == 404:
     print("NFT Collection not found.\n\n(Hint: Try changing the name of the collection in the Python script, line 6.)")
     exit()
+
 
 collectioninfo = json.loads(collection.content.decode())
 

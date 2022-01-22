@@ -1,0 +1,187 @@
+{
+   "id": 26370576,
+   "token_id": "1749",
+   "num_sales": 3,
+   "background_color": null,
+   "image_url": "https://lh3.googleusercontent.com/F-7g1lw_TP_9txLbK5RcZmNOcUqyed22UrgceHNieCeaLzTaqe1RLxw_98fYYLJd2EWGSH7TwLKAwT0k6FP5c_yyMDyQF2fKXX_x3w",
+   "image_preview_url": "https://lh3.googleusercontent.com/F-7g1lw_TP_9txLbK5RcZmNOcUqyed22UrgceHNieCeaLzTaqe1RLxw_98fYYLJd2EWGSH7TwLKAwT0k6FP5c_yyMDyQF2fKXX_x3w=s250",
+   "image_thumbnail_url": "https://lh3.googleusercontent.com/F-7g1lw_TP_9txLbK5RcZmNOcUqyed22UrgceHNieCeaLzTaqe1RLxw_98fYYLJd2EWGSH7TwLKAwT0k6FP5c_yyMDyQF2fKXX_x3w=s128",
+   "image_original_url": "https://ipfs.io/ipfs/QmUPKnRq9ZQDP7XfVpNBtq1g4sMAujycMdoMyShJ9NGZw7",
+   "animation_url": null,
+   "animation_original_url": null,
+   "name": "CyberKong #1749",
+   "description": null,
+   "external_link": "https://www.cyberkongz.com/kong/1749",
+   "asset_contract": {
+      "address": "0x57a204aa1042f6e66dd7730813f4024114d74f37",
+      "asset_contract_type": "non-fungible",
+      "created_date": "2021-04-16T19:57:15.011015",
+      "name": "CyberKongz",
+      "nft_version": "3.0",
+      "opensea_version": null,
+      "owner": 53953400,
+      "schema_name": "ERC721",
+      "symbol": "KONGZ",
+      "total_supply": "3",
+      "description": "Welcome to an alternate reality, where evolution took a different route and weird apes roam the earth.\r\nSome appear normal. Some look weird. And some are just damn cool! \r\nEvery CyberKong is unique and owns randomized items with different rarities. A few are super rare and even animated!\r\n**Maybe some of them look familiar!**",
+      "external_link": "http://cyberkongz.com",
+      "image_url": "https://lh3.googleusercontent.com/LIpf9z6Ux8uxn69auBME9FCTXpXqSYFo8ZLO1GaM8T7S3hiKScHaClXe0ZdhTv5br6FE2g5i-J5SobhKFsYfe6CIMCv-UfnrlYFWOM4=s120",
+      "default_to_fiat": false,
+      "dev_buyer_fee_basis_points": 0,
+      "dev_seller_fee_basis_points": 250,
+      "only_proxied_transfers": false,
+      "opensea_buyer_fee_basis_points": 0,
+      "opensea_seller_fee_basis_points": 250,
+      "buyer_fee_basis_points": 0,
+      "seller_fee_basis_points": 500,
+      "payout_address": "0xeef61546a3e2ffe36cf7d9c826c76edcb0dc6e22"
+   },
+   "permalink": "https://opensea.io/assets/0x57a204aa1042f6e66dd7730813f4024114d74f37/1749",
+   "collection": {
+      "banner_image_url": "https://lh3.googleusercontent.com/8QAOgrzgfu8tR0K80iZW_93o9dUpyGMACpwr4kSeTvinu2hYBvzMOyLoHspo6IPpz7G2Xe57VTXfgGPECzWTaH_oYFNVCuA12AIDJA=s2500",
+      "chat_url": null,
+      "created_date": "2021-04-16T19:57:15.677123",
+      "default_to_fiat": false,
+      "description": "Welcome to an alternate reality, where evolution took a different route and weird apes roam the earth.\r\nSome appear normal. Some look weird. And some are just damn cool! \r\nEvery CyberKong is unique and owns randomized items with different rarities. A few are super rare and even animated!\r\n**Maybe some of them look familiar!**",
+      "dev_buyer_fee_basis_points": "0",
+      "dev_seller_fee_basis_points": "250",
+      "discord_url": "https://discord.gg/cyberkongz",
+      "display_data": {
+         "card_display_style": "cover"
+      },
+      "external_url": "http://cyberkongz.com",
+      "featured": false,
+      "featured_image_url": "https://lh3.googleusercontent.com/CCV8it28JK9YoZ4lFLnfnc1wqeYP4h6_tHHPSj-9jqMTeQSz_f2M79eopKYE7M__unKE5_4YU3td1VkKKPjHyoH5i3KIxtalWHR8=s300",
+      "hidden": false,
+      "safelist_request_status": "verified",
+      "image_url": "https://lh3.googleusercontent.com/LIpf9z6Ux8uxn69auBME9FCTXpXqSYFo8ZLO1GaM8T7S3hiKScHaClXe0ZdhTv5br6FE2g5i-J5SobhKFsYfe6CIMCv-UfnrlYFWOM4=s120",
+      "is_subject_to_whitelist": false,
+      "large_image_url": "https://lh3.googleusercontent.com/CCV8it28JK9YoZ4lFLnfnc1wqeYP4h6_tHHPSj-9jqMTeQSz_f2M79eopKYE7M__unKE5_4YU3td1VkKKPjHyoH5i3KIxtalWHR8=s300",
+      "medium_username": "cyberkongz",
+      "name": "CyberKongz",
+      "only_proxied_transfers": false,
+      "opensea_buyer_fee_basis_points": "0",
+      "opensea_seller_fee_basis_points": "250",
+      "payout_address": "0xeef61546a3e2ffe36cf7d9c826c76edcb0dc6e22",
+      "require_email": false,
+      "short_description": null,
+      "slug": "cyberkongz",
+      "telegram_url": null,
+      "twitter_username": "CyberKongz",
+      "instagram_username": null,
+      "wiki_url": null
+   },
+   "decimals": 0,
+   "token_metadata": "https://kongz.herokuapp.com/api/metadata/1749",
+   "owner": {
+      "user": {
+         "username": "Steve43Lee"
+      },
+      "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
+      "address": "0x6d85cb39201b6adf262528a38cd4c173cdb1a800",
+      "config": ""
+   },
+   "sell_orders": null,
+   "creator": {
+      "user": {
+         "username": null
+      },
+      "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/27.png",
+      "address": "0x000000048797808be86aa9786c1f402671192d6b",
+      "config": ""
+   },
+   "traits": [
+      {
+         "trait_type": "Baby Trait",
+         "value": "Apprentice Hard Hat",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 81,
+         "order": null
+      },
+      {
+         "trait_type": "birthday",
+         "value": 1623064653.0,
+         "display_type": "date",
+         "max_value": null,
+         "trait_count": 0,
+         "order": null
+      },
+      {
+         "trait_type": "Baby Trait",
+         "value": "Tongue Up",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 296,
+         "order": null
+      },
+      {
+         "trait_type": "Baby Trait",
+         "value": "Pink Bib",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 333,
+         "order": null
+      },
+      {
+         "trait_type": "Type",
+         "value": "Baby",
+         "display_type": null,
+         "max_value": null,
+         "trait_count": 3712,
+         "order": null
+      }
+   ],
+   "last_sale": {
+      "asset": {
+         "token_id": "1749",
+         "decimals": 0
+      },
+      "asset_bundle": null,
+      "event_type": "successful",
+      "event_timestamp": "2022-01-05T12:30:31",
+      "auction_type": null,
+      "total_price": "8500000000000000000",
+      "payment_token": {
+         "id": 1,
+         "symbol": "ETH",
+         "address": "0x0000000000000000000000000000000000000000",
+         "image_url": "https://storage.opensea.io/files/6f8e2979d428180222796ff4a33ab929.svg",
+         "name": "Ether",
+         "decimals": 18,
+         "eth_price": "1.000000000000000",
+         "usd_price": "3125.869999999999891000"
+      },
+      "transaction": {
+         "block_hash": "0x6a6a65d72c89bd82afa2c616565af00d86e01f19f3a874dbab5f54fa08e02ecb",
+         "block_number": "13945427",
+         "from_account": {
+            "user": {
+               "username": "Steve43Lee"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/12.png",
+            "address": "0x6d85cb39201b6adf262528a38cd4c173cdb1a800",
+            "config": ""
+         },
+         "id": 240722599,
+         "timestamp": "2022-01-05T12:30:31",
+         "to_account": {
+            "user": {
+               "username": "OpenSea-Orders"
+            },
+            "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/22.png",
+            "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b",
+            "config": "verified"
+         },
+         "transaction_hash": "0x015f0d6fe29832da15dbbde9d8501c5e4d9fc07defeed323d5c31544cb791755",
+         "transaction_index": "335"
+      },
+      "created_date": "2022-01-05T12:31:03.971760",
+      "quantity": "1"
+   },
+   "top_bid": null,
+   "listing_date": null,
+   "is_presale": false,
+   "transfer_fee_payment_token": null,
+   "transfer_fee": null
+}
