@@ -6,7 +6,10 @@ Created on Mon Jan 24 15:25:44 2022
 """
 import os
 import json
-os.chdir(r"D:\NFTs\images\cyberkongz\image_data")
+# Make sure that you are in the NFT folder
+
+path = r"./images/cyberkongz/image_data"
+os.chdir(path)
 
 bg = []
 traits = []
