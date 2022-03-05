@@ -6,7 +6,7 @@ Created on Wed Jan 19 00:48:50 2022
 """
 import requests
 import os
-os.chdir(r"D:/NFTs")
+os.chdir(r"D:/NFTs") # Change directory accordingly
 import json
 import math
 from random_user_agent.user_agent import UserAgent
